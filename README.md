@@ -1,6 +1,19 @@
-# InariWatch Risk Assessment
+<p align="center">
+  <img src="logo.png" width="64" height="64" alt="InariWatch" />
+</p>
 
-AI-powered pre-deploy risk assessment on every pull request. Analyzes your PR diff and posts a risk score comment.
+<h1 align="center">InariWatch Risk Assessment</h1>
+
+<p align="center">
+  AI-powered pre-deploy risk assessment on every pull request.<br/>
+  Analyzes your PR diff and posts a risk score comment.
+</p>
+
+<p align="center">
+  <a href="https://github.com/marketplace/actions/inariwatch-risk-assessment">Marketplace</a> ·
+  <a href="https://inariwatch.com">Website</a> ·
+  <a href="https://inariwatch.com/docs">Docs</a>
+</p>
 
 ## Usage
 
